@@ -1,8 +1,8 @@
-- 👋 Olá, sou o @lucasnabeto
-- 👀 Estou interessado em ampliar meus conhecimentos na área de desenvolvimento
-- 🌱 Atualmente, estou aprendendo JavaScript
+## 👋 Olá, eu sou o Lucas Nabeto!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasnabeto/)
 
-<!---
-lucasnabeto/lucasnabeto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Bacharel em Ciência da Computação pela Universidade Federal de Alfenas.
+
+🎯 Interessado em ampliar meus conhecimentos na área de desenvolvimento de software.
+
+🧑🏻‍💻 Estudando JavaScript atualmente.
