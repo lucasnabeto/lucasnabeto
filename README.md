@@ -5,4 +5,4 @@
 
 🎯 Interessado em ampliar meus conhecimentos na área de desenvolvimento de software.
 
-🧑🏻‍💻 Estudando JavaScript atualmente.
+🧑🏻‍💻 Estudando Angular atualmente.
