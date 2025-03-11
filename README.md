@@ -5,4 +5,6 @@
 
 🎯 Interessado em ampliar meus conhecimentos na área de desenvolvimento de software.
 
-🧑🏻‍💻 Estudando Angular atualmente.
+💼 Desenvolvedor front-end sênior.
+
+🧑🏻‍💻 Estudando a fundo .NET e AWS atualmente.
